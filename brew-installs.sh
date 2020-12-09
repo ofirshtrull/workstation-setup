@@ -24,7 +24,7 @@ brew install virtualbox whatsapp slack telegram vlc balenaetcher authy --cask
 brew install firefox grammarly postman spotify google-chrome --cask
 brew install whatsapp telegram visual-studio-code dropbox --cask
 brew install adium flycut google-cloud-sdk --cask
-
+brew install boostnote --cask
 
 ln -s /usr/local/opt/helm@2/bin/helm /usr/local/bin/helm2
 
