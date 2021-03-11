@@ -13,6 +13,7 @@ tap "tclass/cloud_sql_proxy"
 tap "universal-ctags/universal-ctags"
 
 # brew "sbt"
+brew "adamrodger/tap/gctx"
 brew "amazon-ecs-cli"
 brew "aspell"
 brew "awk"
